@@ -12,7 +12,7 @@ A project focused on modernizing an Information System (IS) website by transitio
 
 1. 📌 Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/is-remix.git
+   git clone https://github.com/anggananda/is-remix.git
    ```  
 
 2. 📂 Navigate into the project directory:  
