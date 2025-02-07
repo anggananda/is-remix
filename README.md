@@ -1,40 +1,64 @@
-# Welcome to Remix!
+# 🚀 is-remix
 
-- 📖 [Remix docs](https://remix.run/docs)
+A project focused on modernizing an Information System (IS) website by transitioning from a monolithic WordPress setup to a headless CMS architecture. This project utilizes **go-wordpress-sync as a backend API** and **Remix as the frontend**, aiming to improve flexibility, performance, and user experience.  
 
-## Development
+## ✨ Features  
+- ⚡ **Modern Frontend:** Built with Remix for better performance and interactivity.  
+- 🗄️ **Headless CMS:** Uses go-wordpress-sync as a backend API to manage content efficiently.  
+- 🌐 **SEO & Performance Optimized:** Fast-loading pages with server-side rendering and caching.  
+- 📱 **Responsive Design:** Optimized for both desktop and mobile experiences.  
 
-Run the dev server:
+## 📥 Installation  
 
-```shellscript
-npm run dev
-```
+1. 📌 Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/is-remix.git
+   ```  
 
-## Deployment
+2. 📂 Navigate into the project directory:  
+   ```bash
+   cd is-remix
+   ```  
 
-First, build your app for production:
+3. ⚙️ Install dependencies:  
+   ```bash
+   npm install
+   ```  
 
-```sh
-npm run build
-```
+4. 🛠️ Set up environment variables in `.env`:  
+   ```
+   API_SERVICE_URL=https://your-api-service.com/api
+   ```  
 
-Then run the app in production mode:
+5. ▶️ Run the development server:  
+   ```bash
+   npm run dev
+   ```  
 
-```sh
-npm start
-```
+## 🚀 Deployment  
 
-Now you'll need to pick a host to deploy it to.
+1. **Build the app for production:**  
+   ```sh
+   npm run build
+   ```  
 
-### DIY
+2. **Run in production mode:**  
+   ```sh
+   npm start
+   ```  
 
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
+### 🌎 Deployment Options  
+You can deploy **is-remix** to various platforms like Vercel, Netlify, or a custom server.  
 
-Make sure to deploy the output of `npm run build`
+## 🎨 Styling  
+This project uses **Tailwind CSS** for styling. You can customize it or replace it with another CSS framework.  
 
-- `build/server`
-- `build/client`
+## 🤝 Contributing  
+Contributions are welcome! 🎉 Feel free to fork the repository and submit pull requests. 🛠️  
 
-## Styling
+## 📜 License  
+This project is licensed under the MIT License. 🏛️  
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+## 👤 Author  
+[anggananda](https://github.com/anggananda) 👋
+
